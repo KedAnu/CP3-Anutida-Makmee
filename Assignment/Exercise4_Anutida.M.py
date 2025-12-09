@@ -13,3 +13,4 @@ print("General Business Score: ", GB)
 print("Introduction to Computer Systems Score: ", IC)
 print("Computer Programming Score: ", CP)
 print("--------------------------------------")
+
